@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<txml:domainZ xmlns:txml="https://jski.net/txml"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://jski.net/txml txml.xsd ">
+	<txml:entities>
+		<txml:required_fields>asd</txml:required_fields>
+	</txml:entities>
+	<txml:roles>ds</txml:roles>
+	<txml:processes>dsa</txml:processes>
+	<txml:resources>ad</txml:resources>
+</txml:domainZ>
