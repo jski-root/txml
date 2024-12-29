@@ -34,3 +34,6 @@
  
 ## YAML or JSON Considerations
  Just say no! Both of these markups are useless and the software industry seems to be getting worse as time goes on. YAML has no schema definitions and JSON is just a serialization of data for one particular language.  
+ 
+## Logic &equiv; Logic
+ p and q is also q and p, therefore an algorithm that is built in Java can also be built in Rust.
