@@ -24,3 +24,13 @@
  
 ## Trap XML Development
  This repository relies heavly on BPMN, XSD and BPEL editors with Maven Plugins. txml shall eat its own dog food and generate its self through the models.
+ 
+ 
+## TXML Agent
+ Shadow Agent/OS in lieu of containers. install an agent on base image and setup with certificates and configure git URLs to txml shall build the domain(s) on that asset
+ 
+## Case Against Containerization
+ seems ineffecient, why build a cluster of computers that run containers that behave like they are running on a monolith. It seems like that running JavaEE on the cluster and have the deployment of EAR file full of @Stateless EJBs would be more effecient and easier to manage.
+ 
+## YAML or JSON Considerations
+ Just say no! Both of these markups are useless and the software industry seems to be getting worse as time goes on. YAML has no schema definitions and JSON is just a serialization of data for one particular language.  
