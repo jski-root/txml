@@ -51,7 +51,7 @@
 \\this is a comment!
 
 \\notice that strings are not encapsulated with double quotes!
-‽.set_parameter(Semper fi).value(fuck off \‽, prints literal interrobang)
+‽.set_parameter(Semper fi).value(frak off \‽, prints literal interrobang)
 
 
 ‽.import(http://oracle.database.com/V5/dkuie).as(DB)
